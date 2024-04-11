@@ -10,6 +10,7 @@ import { MainComponent } from './main.component';
   ],
   imports: [
     CommonModule
-  ]
+  ],
+  exports: [MainComponent]
 })
 export class MainModule { }
