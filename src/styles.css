@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+
+.bg-body-black, .radio{
+    background: black;
+    color: white;
+}
+.radio{
+    border-radius: 24px;
+    overflow: hidden;
+    padding: 20px;
+    margin: 50px 50px 0px 50px;
+}
+
+.img-radio{
+    border-radius: 32px;
+    overflow: hidden;
+}
+.posStick{
+    position: sticky;
+}
+.textWhite{
+    color: white;
+}
+.padding-button{
+    margin-bottom: 30px;
+}

@@ -1,0 +1,21 @@
+
+.bg-body-tertiary{
+    background-color: black;
+    
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-brand img {
+    margin-right: 10px; 
+  }
+  
+  .navbar-brand h1 {
+    font-size: 24px; 
+    margin-bottom: 0; 
+}
+
+  
